@@ -126,4 +126,3 @@ The network architecture implemented here follows the manuscript Methods descrip
 
 ## Citation
 
-A `CITATION.cff` template is included. Replace the placeholder manuscript metadata before making the repository public.
