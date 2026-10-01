@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+title: "Continuous electronic-nose modeling for antibiotic fermentation"
+type: software
+authors:
+  - family-names: "REPLACE_WITH_CORRESPONDING_AUTHOR"
+    given-names: "REPLACE"
+version: 0.1.0
+date-released: 2026-09-29
+repository-code: "REPLACE_WITH_GITHUB_REPOSITORY_URL"

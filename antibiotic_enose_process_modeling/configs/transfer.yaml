@@ -1,0 +1,8 @@
+seed: 20260913
+n_repeats: 100
+outer_test_fraction: 0.25
+fractions: [0.20, 0.40, 0.60, 0.80, 1.00]
+pls_components: 6
+ridge_alpha: 10.0
+source_shrinkage: 0.10
+r2_threshold: 0.80

@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "antibiotic-enose"
+version = "0.1.0"
+description = "Electronic-nose classification, soft sensing, and few-shot adaptation for antibiotic fermentation"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{name = "Manuscript authors"}]
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Topic :: Scientific/Engineering :: Bio-Informatics",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]

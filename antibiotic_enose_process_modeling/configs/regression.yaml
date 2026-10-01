@@ -1,0 +1,12 @@
+seed: 20260913
+sequence_window: 6
+epochs: 300
+batch_size: 32
+learning_rate: 0.001
+recurrent_units: [100, 50]
+selected_models:
+  PMV: BiLSTM
+  RS: BiGRU
+  TS: BiGRU
+  NH4: BiLSTM
+  Titer: LSTM
